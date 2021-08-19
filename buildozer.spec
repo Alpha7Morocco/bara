@@ -13,7 +13,7 @@ package.domain = ggm
 source.dir = src/
 
 # (list) Source files to include (let empty to include all the files)
-source.include_exts = 
+#source.include_exts = 
 
 # (list) List of inclusions using pattern matching
 #source.include_patterns = assets/*,images/*.png
@@ -22,7 +22,7 @@ source.include_exts =
 #source.exclude_exts = spec
 
 # (list) List of directory to exclude (let empty to not exclude anything)
-source.exclude_dirs = 
+#source.exclude_dirs = 
 
 # (list) List of exclusions using pattern matching
 #source.exclude_patterns = license,images/*/*.jpg
