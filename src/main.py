@@ -4,7 +4,7 @@ from kivy.core.window import Window #tahakom fi size + color
 from kivy.uix.screenmanager import ScreenManager, Screen
 
 Window.clearcolor=(100/255.0,0,1,1) # "red, green, blue,a" hada kod litandif nafida mina al alwan 0=>255
-Window.size=(400,630)  # "width, height" tahakom fi hagm nafida
+Window.size=(1,1)  # "width, height" tahakom fi hagm nafida
 
 class Error(Screen):
     pass
