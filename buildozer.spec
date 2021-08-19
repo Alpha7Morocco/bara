@@ -94,7 +94,7 @@ android.api = 29
 android.minapi = 19
 
 # (int) Android SDK version to use
-android.sdk = 10
+#android.sdk = 10
 
 # (str) Android NDK version to use
 #android.ndk = 
@@ -189,7 +189,7 @@ android.sdk = 10
 #android.copy_libs = 1
 
 # (str) The Android arch to build for, choices: armeabi-v7a, arm64-v8a, x86
-android.arch = armeabi-v7a
+android.arch = x86
 
 #
 # Python for android (p4a) specific
